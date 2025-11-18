@@ -51,11 +51,9 @@ button{
     width: 60px;
     border-radius: 5px;
 }
-video{
-    width: 300xpx;
-    height: 200px;
+.down{
+    color: yellow;
 
-}
 
 
 
