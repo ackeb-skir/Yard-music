@@ -36,7 +36,7 @@ ul li a{
 p{
     color: white;
 }
-button{
+.a{
     background-color: purple;
     border-color: yellow;
     color: white
@@ -57,4 +57,5 @@ video{
     height: 200px;
 
 }
+
 
