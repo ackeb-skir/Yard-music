@@ -3,7 +3,7 @@ body{
     yellowgreen,green,darkgreen,darkblue,blue,purple,darkred);
     background-repeat: no-repeat;
     background-size: cover;
-    height: cover;
+    height: 100vh;
 }
 h1{
     color:yellow;
@@ -54,6 +54,7 @@ button{
 }
 .down{
     color: yellow;
+
 
 
 
