@@ -42,7 +42,7 @@ button{
 }
 .src{
     height: 40px;
-    width:80%;
+    width:60%;
     border-radius: 5px;
 }
 .header button{
@@ -52,6 +52,7 @@ button{
 }
 .down{
     color: yellow;
+
 
 
 
