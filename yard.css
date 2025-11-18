@@ -39,6 +39,7 @@ p{
 button{
     background-color: purple;
     border-color: yellow;
+    color: white;
 }
 .src{
     height: 40px;
@@ -53,6 +54,7 @@ button{
 }
 .down{
     color: yellow;
+
 
 
 
