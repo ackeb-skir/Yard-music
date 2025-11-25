@@ -1,0 +1,115 @@
+body{
+    background-image: url(img/acke-b-skir_1743546448.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200vh;
+}
+h1{
+    color:yellow;
+    background-color: darkgreen;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 4px 4px 30px orangered;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 40px;
+}
+
+ul li a{
+    text-decoration: none;
+    border-radius: 40px;
+    box-shadow: 2px 2px 20px orange;
+    padding: 8px;
+    transition: .4s ease;
+    color: darkblue;
+    background-color: blanchedalmond;
+}
+ul li a:hover{
+   background-color: white;
+color: red;    
+}
+
+p{
+    color: white;
+}
+button{
+    background-image: conic-gradient(darkred,red,orangered,orange,yellow,
+    yellowgreen,green,darkgreen,darkblue,blue,purple,darkred);
+    border-color: yellow;
+    color: white
+}
+.src{
+    height: 40px;
+    width:80%;
+    margin-left: 90px;
+    border-radius: 5px;
+}
+.header button{
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+
+
+.arrange{
+    margin-top: auto;
+}
+
+.arrange .ro{
+    flex-basis: 20%;
+    display: flex;  
+    justify-content: center;
+}
+
+
+.arrange .ro .co video{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px orange
+}
+
+.array{
+    margin-top: auto;
+}
+.array .row{
+    flex-basis: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.array .row .col video{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px orangered;
+    
+}
+span{
+    color: wheat; 
+    background-color: darkslateblue;
+    border-color: white;
+    padding: 2px;
+    box-shadow: 0px 0px 5px white;
+    margin: 10px;
+}
+p{
+    margin-bottom: -2px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    background-color: purple;
+    box-shadow: 0px 0px 20px orangered;
+    border-radius: 5px;
+    padding: 2px;
+}

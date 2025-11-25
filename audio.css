@@ -1,0 +1,75 @@
+body{
+    background-image: url(img/acke-b-skir_1743546448.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300vh;
+}
+h1{
+    color:yellow;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 4px 4px 30px orangered;
+    background-color: darkgreen;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 40px;
+}
+
+ul li a{
+    color: darkgreen;
+    background-color: blanchedalmond;
+    text-decoration: none;
+    border-radius: 40px;
+    box-shadow: 2px 2px 20px orange;
+    padding: 8px;
+    transition: .4s ease;
+}
+ul li a:hover{
+   background-color: white;
+color: red
+}
+
+p{
+    color: white;
+}
+button{
+    background-image: conic-gradient(darkred,red,orangered,orange,yellow,
+    yellowgreen,green,darkgreen,darkblue,blue,purple,darkred);
+    border-color: yellow;
+    color: white
+}
+.src{
+    height: 40px;
+    width:80%;
+    margin-left: 90px;
+    border-radius: 5px;
+}
+.header button{
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+}
+.down span{
+    color: yellow;
+    background-color: darkmagenta;
+    padding: 3px;
+    border-radius: 4px;
+    border-color: yellow;
+
+}
+
+img{
+    width: 300px;
+    height:300px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px orangered;
+}
